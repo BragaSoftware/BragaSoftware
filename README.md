@@ -6,6 +6,7 @@ https://steamcommunity.com/id/bragadiogo/
 
 ## Tecnologias 
 
-            <i class="devicon-bootstrap-plain-wordmark colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
           
 
