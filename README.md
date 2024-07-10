@@ -5,8 +5,6 @@ I am a neuroscience enthusiast and mathematics fan as well, as well as a constan
 
 ![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGBBraga&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGBBraga&hide_progress=true)
-
 ## Technologies 
 <img height="100px" width="100px" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/> <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img height="100px" width="100px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
 ##
