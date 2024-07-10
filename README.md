@@ -1,11 +1,12 @@
 ## Hello <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>
 
-## I'm Braga <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> i currently study Software Engineering at PUC-Minas 📚. I'm interested in subjects such as brain-machine interface 🧠, cybersecurity 💻 and artificial intelligence 🤖.
+## I'm Braga <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>, i currently study Software Engineering at PUC-Minas 📚. I'm interested in subjects such as brain-machine interface 🧠, cybersecurity 💻 and artificial intelligence 🤖.
 
 I am a neuroscience enthusiast and mathematics fan, as well as a constant reader 📗. Based on this, i like reading ancient stories and philosophy 📜. Furthermore, I really like music and I play guitar, piano and do something in FL Studio 🎸. Also love anime, series, games 👾 and running 👟.
 
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/> 
 
+##
 
 ## <img height=50px width=50px src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1Nzk5MzgsIm5iZiI6MTcyMDU3OTYzOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEwVDAyNDcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExZTEzNmU3NGI2ZDE1MTczNmIwMDM3NjkxNmUzMjNlNmUyOGYwZjQ1ODAwOGRmNTI0Y2IxMTRhZDQxMjE4OGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Cc-dzWDF3UFbmVRo5ApfGWZdy2fRGS801dYAmblRoOM"/> Technologies 
 
