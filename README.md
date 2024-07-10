@@ -1,4 +1,4 @@
-### Hello <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>
+## Hello <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>
 
 ## I'm Braga <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>. I currently study Software Engineering at PUC-Minas 📚. I'm interested in subjects such as brain-machine interface 🧠, cybersecurity 💻 and artificial intelligence 🤖.
 
