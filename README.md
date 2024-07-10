@@ -3,6 +3,8 @@
 
 I am a neuroscience enthusiast and mathematics fan as well, as well as a constant reader. I like reading ancient stories and philosophy. Furthermore, I really like music and I play guitar, piano and do something in FL Studio. I love anime, series and games.
 
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/> 
+
 ## Technologies 
 
 Languages
