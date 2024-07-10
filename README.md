@@ -1,5 +1,5 @@
-### Hello,
-## I'm Braga. I currently study Software Engineering at PUC-Minas. I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence.
+### Hello 👋🏻
+## I'm Braga. I currently study Software Engineering at PUC-Minas. I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence 🤖.
 
 I am a neuroscience enthusiast and mathematics fan as well, as well as a constant reader. I like reading ancient stories and philosophy. Furthermore, I really like music and I play guitar, piano and do something in FL Studio. I love anime, series and games.
 
