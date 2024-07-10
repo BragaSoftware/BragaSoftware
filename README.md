@@ -19,6 +19,10 @@ I am a neuroscience enthusiast and mathematics fan as well, as well as a constan
 
 ##
 
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+##
+
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
 ##
