@@ -1,7 +1,7 @@
 ### Hello 👋🏻
 ## I'm Braga <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>. I currently study Software Engineering at PUC-Minas 📚. I'm interested in subjects such as brain-machine interface 🧠, cybersecurity 💻 and artificial intelligence 🤖.
 
-I am a neuroscience enthusiast and mathematics fan, as well as a constant reader. I like reading ancient stories and philosophy. Furthermore, I really like music and I play guitar, piano and do something in FL Studio. I love anime, series and games.
+I am a neuroscience 🔬 enthusiast and mathematics 🔢 fan, as well as a constant reader 📗. I like reading ancient stories and philosophy 📜. Furthermore, I really like music and I play guitar, piano and do something in FL Studio. I love anime, series and games.
 
 
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/> 
