@@ -3,8 +3,6 @@
 
 I am a neuroscience enthusiast and mathematics fan as well, as well as a constant reader. I like reading ancient stories and philosophy. Furthermore, I really like music and I play guitar, piano and do something in FL Studio. I love anime, series and games.
 
-![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGBBraga&show_icons=true&theme=radical)
-
 ## Technologies 
 
 Languages
@@ -57,4 +55,4 @@ Design
           
           
           
-
+![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGBBraga&show_icons=true&theme=radical)
