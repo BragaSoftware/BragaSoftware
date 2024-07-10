@@ -1,10 +1,10 @@
-# Hello <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>
+# <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/> Hello <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>
 
 ## I'm Braga <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>, i currently study Software Engineering at PUC-Minas 📚. I'm interested in subjects such as brain-machine interface 🧠, cybersecurity 💻 and artificial intelligence 🤖.
 
 I am a neuroscience enthusiast and mathematics fan, as well as a constant reader 📗. Based on this, i like reading ancient stories and philosophy 📜. Furthermore, I really like music and I play guitar, piano and do something in FL Studio 🎸. Also love anime, series, games and running 👟.
 
-## <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Contato <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+## <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Contato <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> officialbragasoftware@gmail.com <br> <br>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> bragasoftware
