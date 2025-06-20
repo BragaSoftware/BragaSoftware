@@ -2,7 +2,7 @@
 
 ## I'm Braga , i currently study Software Engineering . I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence. <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
-## <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Contact <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+## Contact <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> officialbragasoftware@gmail.com <br> <br>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> bragasoftware
