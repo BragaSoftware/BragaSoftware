@@ -1,6 +1,6 @@
 ## Hello <img height=30px width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>
 
-## I'm Braga , i currently study Software Engineering . I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence. <img height=50px width=50px src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+## I'm Braga , i currently study Software Engineering . I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence.
 
 ## Contact <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 
@@ -55,6 +55,6 @@ Design
 
 ## Stats 
 
-![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGBBraga&show_icons=true&theme=radical)   <img height=200px width=200px src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>    <img height=200px width=200px src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>   
+![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGBBraga&show_icons=true&theme=radical)   <img height=200px width=200px src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
           
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
