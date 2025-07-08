@@ -1,4 +1,4 @@
-## Hello, i'm Braga. I currently study Software Engineering . I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence.
+## Hello, i'm Diogo. I currently study Software Engineering . I'm interested in subjects such as brain-machine interface, cybersecurity and artificial intelligence.
 
 ## Contact <img height=20px width=20px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 
